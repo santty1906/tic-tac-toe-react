@@ -14,13 +14,6 @@ This is a simple **Tic Tac Toe** game (also known as "Three in a Row") built wit
 
 ---
 
-## 📸 Demo
-
-![tic-tac-toe-screenshot](https://via.placeholder.com/500x300.png?text=Game+Screenshot)  
-<!-- Optional: Replace with your own image or GIF demo -->
-
----
-
 ## 🧠 How It Works
 
 - The board is a 3x3 grid of buttons (`<Square />`) rendered by the `<Board />` component.
